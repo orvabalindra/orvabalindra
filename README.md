@@ -17,7 +17,7 @@ Saya adalah siswa jurusan Rekayasa Perangkat Lunak (RPL) di SMK PGRI 3 Malang ya
 
 ### 🚀 Proyek Unggulan
 - **Blodora** 
-  Aplikasi manajemen donor darah berbasis web. Dibangun menggunakan API backend Laravel dan frontend React.
+  Aplikasi manajemen donor darah berbasis web. Dibangun menggunakan php/framework laravel
 
 ### 📫 Hubungi Saya
 - Email: [orvaskr14@gmail.com]
