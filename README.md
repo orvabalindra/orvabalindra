@@ -1,16 +1,18 @@
-## Hi there 👋
+# Halo! Saya Mochammad Risky Orva Balindra 👋
 
-<!--
-**orvabalindra/orvabalindra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya adalah siswa jurusan Rekayasa Perangkat Lunak (RPL) di SMK PGRI 3 Malang yang antusias membangun aplikasi web dan mobile. Saya terbiasa merancang antarmuka, menyusun arsitektur database, dan mengimplementasikannya ke dalam kode.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Tools
+- **Web Development:** Laravel, React, PHP, JavaScript, Bootstrap, HTML/CSS
+- **Mobile Development:** Android Studio, Kotlin, Java, SQLite, Retrofit
+- **Database & Architecture:** MySQL, MariaDB, Draw.io (ERD/DFD)
+- **UI/UX & Design:** Figma, Canva
+- **Environment:** Visual Studio Code, Laragon, XAMPP, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Proyek Unggulan
+- **Blodora** 
+  Aplikasi manajemen donor darah berbasis web. Dibangun menggunakan API backend Laravel dan frontend React.
+
+### 📫 Hubungi Saya
+- Email: [orvaskr14@gmail.com]
+- LinkedIn: [-]
